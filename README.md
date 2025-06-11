@@ -1,5 +1,4 @@
 # Deep-Learning-in-classification-of-common-Carp-intestine-classification
-Master thesis revolving around applying differrent DL approaches to Common Carp microbiome classification 
 If youd like to learn more about the project you can visit [project describtion](https://theta.edu.pl/grants/common_carp/).
 Check out [poster](https://theta.edu.pl/wp-content/uploads/2025/05/Neural_nets_carp_aiEAAP-2025.pdf) or [Paper](https://github.com/paq88/Deep-Learning-in-classification-of-common-Carp-intestine-classification/blob/main/Deep-Learning-in-classification-of-common-Carp-intestine-classification-preprint-Marek-Sztuka.pdf)
 
